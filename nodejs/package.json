@@ -1,0 +1,13 @@
+{
+  "name": "airport-control",
+  "description": "Airport's control panel",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "http": "*",
+    "mysql": "*",
+    "mysql-utilities": "*",
+    "url": "*",
+    "crypto": "*"
+  }
+}
